@@ -2,6 +2,7 @@
 ICo 프로젝트 기술 공유 세션
 
 ### 강대훈
+[링크](https://github.com/ESTiOSAI/iCo-share-session/blob/main/iCo%20%EA%B8%B0%EC%88%A0%EC%84%B8%EC%85%98.pdf)
 - 코인 추천 로직
 - Throttle / Debounce
 - SSE Client
@@ -13,6 +14,10 @@ ICo 프로젝트 기술 공유 세션
 - 흐름도
 - 트러블 슈팅
 ### 백현진
+[링크](https://)
+- CoreData A-Z
+- 트러블 슈팅
+- 위젯
 
 ### 서희재
 [피그마 슬라이드](https://www.figma.com/deck/74xMk4lFfkgUskQZxx5ZS9/-%EC%95%84%EC%9D%B4%EC%BD%94--OCR---Infinite-Carousel?node-id=1-42&t=8A1feF29i4IfOjK0-1)
@@ -20,11 +25,13 @@ ICo 프로젝트 기술 공유 세션
 - Vision
 - 인피니트 캐로셀
 ### 이강호
+[링크](https://github.com/ESTiOSAI/iCo-share-session/blob/main/WebSocket%20%EA%B3%B5%EC%9C%A0%20%EC%84%B8%EC%85%98.pdf)
 - 소켓이란
 - WebSocket 등장 이전
 - WebSocket
 - 살습예제
 ### 장지현
+[링크](https://github.com/ESTiOSAI/iCo-share-session/blob/main/%EA%B8%B0%EC%88%A0%20%EA%B3%B5%EC%9C%A0%20%EC%84%B8%EC%85%98.pdf)
 - Network Error
 - 엘런(LLM) 삽질 공유기
 - UI 순차 업데이트
